@@ -1,2 +1,3 @@
 # BitChat
+
 Simple messaging app
